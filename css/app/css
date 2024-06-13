@@ -67,6 +67,20 @@ li {
 
 }
 
+.editorial5 {
+    background-color: rgb(78, 10, 78);
+    border-radius: 10px;
+    color: white;
+    padding: 3px 10px;
+}
+
+.editorial6 {
+    background-color: rgb(78, 78, 9);
+    border-radius: 10px;
+    color: white;
+    padding: 3px 10px;
+}
+
 
 .list-mobile {
     margin-top: 2%;
@@ -77,5 +91,21 @@ li {
 }
 
 .summit {
+    margin-top: 2%;
+}
+
+.up {
+    margin-top: 2%;
+}
+
+.home {
+    margin-top: 2%;
+}
+
+.on {
+    margin-top: 2%;
+}
+
+.rev {
     margin-top: 2%;
 }
